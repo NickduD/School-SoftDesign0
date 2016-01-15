@@ -1,4 +1,4 @@
-package com.softdesign.school.nik.school_softdesign;
+package com.softdesign.school.nik.schoolsoftdesign;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
